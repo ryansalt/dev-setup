@@ -137,8 +137,8 @@ brew link libxslt --force
 #heroku update
 
 # Install Cask
-brew install caskroom/cask/brew-cask
-brew tap caskroom/versions
+# brew install caskroom/cask/brew-cask
+# brew tap caskroom/versions
 
 # Core casks
 brew cask install --appdir="/Applications" alfred
